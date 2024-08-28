@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "End-to-end-ML-Project-with-MLflow"
+REPO_NAME = "End-to-End-Machine-Learning-project-with-mlflow"
 AUTHOR_USER_NAME = "Amish929"
 SRC_REPO = "mlProject"
 AUTHOR_EMAIL = "agarwalamish624@gmail.com"
