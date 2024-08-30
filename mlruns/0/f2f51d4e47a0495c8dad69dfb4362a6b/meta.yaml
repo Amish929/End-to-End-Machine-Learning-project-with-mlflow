@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End%20to%20End%20Machine%20Learning%20project%20with%20mlflow/End-to-End-Machine-Learning-project-with-mlflow/mlruns/0/f2f51d4e47a0495c8dad69dfb4362a6b/artifacts
+end_time: 1725015754924
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2f51d4e47a0495c8dad69dfb4362a6b
+run_name: salty-finch-677
+run_uuid: f2f51d4e47a0495c8dad69dfb4362a6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725015751758
+status: 3
+tags: []
+user_id: Amish Agarwal
